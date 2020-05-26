@@ -1,0 +1,19 @@
+{
+    "name": "jdtanjuaquio/setmeup",
+    "description": "A simple laravel command to setup Laravel UI, TailwindCSS, Livewire and AlpineJS",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jastine Tanjuaquio",
+            "email": "jd.tanjuaquio@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Jdtanjuaquio\\Setmeup\\": "src/"
+        }
+    }
+}
