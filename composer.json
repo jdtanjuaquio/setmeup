@@ -9,7 +9,6 @@
             "email": "jd.tanjuaquio@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
@@ -22,5 +21,7 @@
                 "Jdtanjuaquio\\Setmeup\\SetMeUpServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
