@@ -15,5 +15,12 @@
         "psr-4": {
             "Jdtanjuaquio\\Setmeup\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Jdtanjuaquio\\Setmeup\\SetMeUpServiceProvider"
+            ]
+        }
     }
 }
